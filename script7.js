@@ -102,7 +102,7 @@ document.getElementById("eq").onclick = function(){
         if(result === 'ERROR'){
             result = 0,c=0;
         }
-        op = 0 ,variable = '';
+        variable = '';
     }
 }
 
