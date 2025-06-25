@@ -33,7 +33,7 @@ function prb(){
     variable='';
     disp.innerText = result;
     if(result === 'ERROR'){
-       result = 0,op = 0;
+       result = 0,op = 0,a = 0,b = 0;
     }
 }
 
