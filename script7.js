@@ -35,6 +35,7 @@ function prb(){
     if(result === 'ERROR'){
        result = 0;
     }
+    result = 0;
 }
 
 document.getElementById("n1").onclick = function(){
